@@ -4,8 +4,8 @@
 import numpy as np
 import pandas as pd
 import nltk
-# nltk.data.path.append(r'C:\Users\HP\AppData\Roaming\nltk_data')
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
