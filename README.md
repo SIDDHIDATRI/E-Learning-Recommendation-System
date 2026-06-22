@@ -1,5 +1,9 @@
 # E-Learning Content Recommendation System
 
+## Live Demo
+
+https://e-learning-recommendation-system-guukrz93bz4q8ctrz7tzck.streamlit.app/
+
 ## Overview
 
 This project is an NLP-based E-Learning Content Recommendation System that provides personalized course recommendations based on user interests. The system combines Information Retrieval and Machine Learning techniques to improve recommendation accuracy and relevance.
