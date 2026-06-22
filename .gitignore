@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+recommendations.csv
+initial_recommendations.csv
+Coursera.csv
+.env
+.DS_Store
